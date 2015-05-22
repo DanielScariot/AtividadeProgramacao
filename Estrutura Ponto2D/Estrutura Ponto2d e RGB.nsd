@@ -8,12 +8,5 @@ int main()
         float x;
         float y;
     };
-    struct CorRGB
-    {
-        float r;
-        float g;
-        float b;
-    };
-
     return 0;
 }
