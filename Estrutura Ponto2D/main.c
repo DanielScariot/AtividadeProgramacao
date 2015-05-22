@@ -10,9 +10,15 @@ int main()
     };
     struct CorRGB
     {
-        float r;
-        float g;
-        float b;
+        int r;
+        int g;
+        int b;
+    };
+    struct Circulo
+    {
+        struct Ponto2D centro;
+        float raio;
+        struct CorRGB cor;
     };
 
     return 0;
