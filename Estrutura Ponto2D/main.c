@@ -20,6 +20,8 @@ int main()
         float raio;
         struct CorRGB cor;
     };
+    struct Ponto2D ponto1;
+    struct Circulo circ1;
 
     return 0;
 }
