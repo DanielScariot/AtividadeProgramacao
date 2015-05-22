@@ -1,6 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+void leInstancias (struct Ponto2D *p,struct Circulo *c)
+{
+
+}
+
 int main()
 {
     struct Ponto2D
